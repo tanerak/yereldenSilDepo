@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 ben taner developer
+=======
+baska developer geldi
+>>>>>>> dfe447048b0031658b1f0b68f6be99e68c9cac85
